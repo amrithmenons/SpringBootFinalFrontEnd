@@ -1,0 +1,130 @@
+{
+  "featured": [
+    {
+      "id": 1,
+      "name": "Vivanta Taj",
+      "city": "Coimbatore",
+      "price": 15000,
+      "rating": 4.5,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Another Property",
+      "city": "Chennai",
+      "price": 20000,
+      "rating": 4,
+      "image": "/pic6.jpg"
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "name": "Property 1",
+      "city": "Coimbatore",
+      "price": 18000,
+      "rating": 1,
+      "image": "/FeaturedProperties/pic1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Property 2",
+      "city": "Chennai",
+      "price": 22000,
+      "rating": 4.7,
+      "image": "/FeaturedProperties/pic3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Property 3",
+      "city": "Salem",
+      "price": 22000,
+      "rating": 4.7,
+      "image": "/FeaturedProperties/pic4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Property 4",
+      "city": "Madurai",
+      "price": 22000,
+      "rating": 4.7,
+      "image": "/FeaturedProperties/pic5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Property 5",
+      "city": "Trichy",
+      "price": 22000,
+      "rating": 4.7,
+      "image": "/FeaturedProperties/pic6.jpg"
+    }
+  ],
+  "propertyList": [
+    {
+      "id": 1,
+      "name": "Listed Property 1",
+      "city": "Coimbatore",
+      "price": 16000,
+      "rating": 4.3,
+      "image": "/pic9.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Listed Property 2",
+      "city": "Chennai",
+      "price": 21000,
+      "rating": 4.5,
+      "image": "/pic10.jpg"
+    }
+  ],
+  "users": [
+    {
+      "username": "wilsonpaulraj",
+      "email": "wilsonpaulrajd@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "username": "jayakaran",
+      "email": "jayakaran@gmail.com",
+      "password": "1234567890",
+      "id": 3
+    },
+    {
+      "username": "santhosh",
+      "email": "santhosh@gmail.com",
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "username": "qwertyui",
+      "email": "asdfghj@sdf.von",
+      "password": "1234567890",
+      "id": 5
+    },
+    {
+      "username": "ertyunib",
+      "email": "hjvkuciy@u.ihv",
+      "password": "123456789",
+      "id": 6
+    },
+    {
+      "username": "rytjkbjnl",
+      "email": "xciyvkublkn@gjgxuc.kvi",
+      "password": "1234567890",
+      "id": 7
+    },
+    {
+      "username": "wilson",
+      "email": "wilson@gmail.com",
+      "password": "123456789",
+      "id": 8
+    },
+    {
+      "username": "vishnuram",
+      "email": "vishnuram@gmail.com",
+      "password": "123456789",
+      "id": 9
+    }
+  ]
+}

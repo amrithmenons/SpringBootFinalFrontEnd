@@ -1,0 +1,61 @@
+body {
+  background-color: #1c1c1c; /* Darker background color */
+  color: #ddd;
+  font-family: Arial, sans-serif;
+}
+
+.fp {
+  white-space: nowrap;
+  overflow-x: auto;
+  width: 100%;
+  display: flex;
+  gap: 10px;
+}
+
+.fpItem {
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  width: 300px; /* Set a fixed width for each item */
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #2c2c2c; /* Darker background color for each item */
+  transition: transform 0.3s ease-in-out;
+}
+
+.fpItem:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 10px #0071c2; /* Glowing blue effect */
+}
+
+.fpImg {
+  width: 100%;
+}
+
+.fpName {
+  font-weight: bold;
+}
+
+.fpCity {
+  font-weight: 300;
+}
+
+.fpPrice {
+  font-weight: 500;
+}
+
+.scroll-to-more-button {
+  background-color: inherit; /* Remove borders */
+  color: #ddd; /* Change color */
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Make it an inline block */
+  font-size: 16px; /* Set font size */
+  margin-top: 20px; /* Add some margin */
+  cursor: pointer; /* Add cursor pointer */
+  border-radius: 5px; /* Optional: Add border radius */
+}
+
+.scroll-to-more-button:hover {
+  background-color: inherit; /* Change color on hover */
+}
